@@ -1,0 +1,6 @@
+@recruitease_backend_HostAddress = http://localhost:5110
+
+GET {{recruitease_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
